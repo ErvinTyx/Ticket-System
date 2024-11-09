@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\Ervin\TeohYuXiang_RSW_G5\assignment\main.cpp(293,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Ervin\TeohYuXiang_RSW_G5\assignment\main.cpp(325,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  assignment.vcxproj -> D:\Ervin\TeohYuXiang_RSW_G5\x64\Debug\assignment.exe
